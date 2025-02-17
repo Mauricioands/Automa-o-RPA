@@ -1,1 +1,1 @@
-# Automa-o-RPA
+Este script automatiza a coleta de dados climáticos de uma cidade específica, salvando-os em um arquivo CSV. Ele faz uso da API pública do OpenWeather e pode ser configurado para rodar em intervalos regulares.
